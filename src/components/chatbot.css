@@ -1,0 +1,17 @@
+.centered-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* Adjust height as needed */
+  }
+  
+  .chat-input-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  /* Add additional styling as needed */
+  input {
+    margin-right: 10px; /* Adjust margin as needed */
+  }
+  
